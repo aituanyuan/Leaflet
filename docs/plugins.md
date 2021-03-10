@@ -271,6 +271,15 @@ Plugins for loading basemaps or GIS raster layers in common (albeit non-default)
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/alcalin/L.TileLayer.WMTS">L.TileLayer.WMTS</a>
+		</td><td>
+			A simple WMTS Tile Layer plugin for Leaflet.
+		</td><td>
+			<a href="https://github.com/alcalin">Alexandru Calin</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/stuartmatthews/Leaflet.NonTiledLayer.WCS">Leaflet.NonTiledLayer.WCS</a>
 		</td><td>
 			Display raster data from Web Coverage Services.  Rasters can be styled and queried in the client.  See the <a href="https://stuartmatthews.github.io/Leaflet.NonTiledLayer.WCS/">demo</a>.
@@ -381,7 +390,7 @@ Sometimes you don't want to load a map, just big custom images. **Really** big o
 <table class="plugins"><tr><th>Plugin</th><th>Description</th><th>Maintainer</th></tr>
 	<tr>
 		<td>
-			<a href="https://github.com/turban/Leaflet.Zoomify">TileLayer.Zoomify</a>
+			<a href="https://github.com/cmulders/Leaflet.Zoomify">TileLayer.Zoomify</a>
 		</td><td>
 			A TileLayer for Zoomify images.
 		</td><td>
@@ -4776,6 +4785,15 @@ Ease your development integrating Leaflet into a development framework or automa
 			<a href="https://github.com/KoRiGaN/Vue2Leaflet">Vue2Leaflet</a> is a JavaScript library for the <a href="https://vuejs.org/">Vue.js</a> framework that wraps Leaflet, making it easy to create reactive maps.
 		</td><td>
 			<a href="https://github.com/KoRiGaN">Mickaël KoRiGaN</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/axyjo/leaflet-rails">leaflet-rails gem</a>
+		</td><td>
+			This gem provides the leaflet.js map display library for your Rails 5 application. <a href="https://rubygems.org/gems/leaflet-rails">leaflet-rails on RubyGems</a>
+		</td><td>
+			<a href="https://github.com/axyjo">Akshay Joshi</a>
 		</td>
 	</tr>
 </table>
